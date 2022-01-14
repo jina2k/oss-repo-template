@@ -26,3 +26,28 @@ Jesse Jordan, freshman in 2002 at RPI, gets sued after making a search engine th
 
 3 </br>
 ![image](https://user-images.githubusercontent.com/66571652/149588646-a5d062b5-133b-4ee2-81d3-dd02691569a4.png)
+
+4.1 </br>
+#1 </br>
+![image](https://user-images.githubusercontent.com/66571652/149589787-9f9dd36e-1d8b-4df2-b769-30782c99bb55.png)
+
+#2 </br>
+![image](https://user-images.githubusercontent.com/66571652/149590741-1f2cc01c-a2da-44d4-bf71-95f50ed072f4.png)
+
+#3 </br>
+![image](https://user-images.githubusercontent.com/66571652/149591377-bd45987d-ebde-4334-9aaa-54c5d4c54a8a.png)
+
+#4 </br>
+![image](https://user-images.githubusercontent.com/66571652/149591847-32bbe908-a5a8-4157-8bd4-d741358f4cd4.png)
+
+#5 </br>
+![image](https://user-images.githubusercontent.com/66571652/149592058-3c9e54f1-4830-4a6e-a73f-6880cde605a9.png)
+
+#6 </br>
+![image](https://user-images.githubusercontent.com/66571652/149592220-0a397e1d-c861-4faf-9f83-ff9e4bccd5f2.png)
+
+#7 </br>
+![image](https://user-images.githubusercontent.com/66571652/149592486-6d5bf5ea-d3e3-45d8-bb0c-e02b5f15f4ae.png)
+
+4.2 </br>
+
