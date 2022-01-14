@@ -51,3 +51,44 @@ Jesse Jordan, freshman in 2002 at RPI, gets sued after making a search engine th
 
 4.2 </br>
 
+#1 </br>
+![image](https://user-images.githubusercontent.com/66571652/149593754-f51f1c67-96a3-4391-a0d7-c60ed92f8f45.png)
+
+#2 </br>
+![image](https://user-images.githubusercontent.com/66571652/149593786-a5d06e37-1a5a-4ac3-a414-65c78b851421.png)
+
+#3 </br>
+![image](https://user-images.githubusercontent.com/66571652/149593814-83f6a20a-7773-4162-a572-1b9de4c27b3a.png)
+
+#4 </br>
+![image](https://user-images.githubusercontent.com/66571652/149593847-f1c5b787-df83-4dd7-a7ec-986a96b52964.png)
+
+#5 </br>
+![image](https://user-images.githubusercontent.com/66571652/149593873-c0832a28-3426-4bf6-a82f-d64c188c6cc1.png)
+</br>
+5 </br>
+![image](https://user-images.githubusercontent.com/66571652/149595416-7459f878-ec9d-4478-872b-2f04099886ee.png)
+</br>
+<pre>
+while (notDone()) {
+  if (isPathForward()) {
+    moveForward();
+    if (isPathRight()) {
+      turnRight();
+    } else {
+    }
+  } else {
+    if (isPathLeft()) {
+      turnLeft();
+    } else {
+      if (isPathRight()) {
+        turnRight();
+      } else {
+        turnRight();
+      }
+    }
+  }
+}
+</pre>
+
+
