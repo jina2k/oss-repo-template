@@ -91,4 +91,6 @@ while (notDone()) {
 }
 </pre>
 
-
+6 </br>
+I'm interested in working on [OpenEnergyDashboard](https://github.com/OpenEnergyDashboard/OED) as I have previously worked on it in RCOS last semester. This would allow me to get to work on problems faster as I have already been through the onboarding process for this project. </br>
+Another project I am somewhat interested in is a Maplestory private server [v203.4](https://github.com/pokiuwu/v203.4) that I have forked recently. I still have not looked at the code so I am not sure how long the onboarding process will take. This project could be interesting for me to work on as I want to implement some custom features that some private servers had in the past.
