@@ -1,6 +1,6 @@
 # Lab 01 Report - Introduction to Open Source Software
 1</br>
-![image](https://user-images.githubusercontent.com/66571652/149561420-7db0c323-4acd-4667-ac8c-e468eed2bd3b.png)
+![image](https://user-images.githubusercontent.com/66571652/149579887-712184ae-1a6d-4fc6-8f9a-5bc8ebbca4c6.png)
 
 2.1</br>
 The 10 criteria listed in [Open Source Definition](http://opensource.org/osd) define open source, which is summarized below:
