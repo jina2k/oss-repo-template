@@ -1,6 +1,8 @@
 # Lab 01 Report - Introduction to Open Source Software
-1</br>
+## 1. Discord</br>
 ![image](https://user-images.githubusercontent.com/66571652/149579887-712184ae-1a6d-4fc6-8f9a-5bc8ebbca4c6.png)
+
+## 2. Reading</br>
 
 2.1</br>
 The 10 criteria listed in [Open Source Definition](http://opensource.org/osd) define open source, which is summarized below:
@@ -24,8 +26,10 @@ the person on the other side can understand maybe half of what is being asked, i
 2.4 </br>
 Jesse Jordan, freshman in 2002 at RPI, gets sued after making a search engine that ended up being used to pirate music. He based the search engine off of Microsoft's, and made it publically available to every student at RPI. Out of everything that the students of RPI put into Jesse's search engine, the RIAA chose to sue him for copying a search engine and essentially just making it available to students, because "music". I basically learned from this reading that redistributing software has consequences, even though Jesse barely made changes to the search engine. I also learned that society can be unfair where it costs more money to win the lawsuit rather than to settle (and that if Jesse had more money, the RIAA would have taken all of it had it been under 15 million). Artists barely made money during this time as well, so it was clear that the RIAA's intention was to profit off of the early ages of the Internet. Above all, it shows that contributing to open source can cost money, and that advancing technology should be treaded carefully, as there can be unforeseen consequences like what happened here. As someone said in the past, nothing is ever really free.
 
-3 </br>
+## 3. Linux </br>
 ![image](https://user-images.githubusercontent.com/66571652/149588646-a5d062b5-133b-4ee2-81d3-dd02691569a4.png)
+
+## 4. Regex </br>
 
 4.1 </br>
 #1 </br>
@@ -66,7 +70,7 @@ Jesse Jordan, freshman in 2002 at RPI, gets sued after making a search engine th
 #5 </br>
 ![image](https://user-images.githubusercontent.com/66571652/149593873-c0832a28-3426-4bf6-a82f-d64c188c6cc1.png)
 </br>
-5 </br>
+## 5. Blockly </br>
 ![image](https://user-images.githubusercontent.com/66571652/149595416-7459f878-ec9d-4478-872b-2f04099886ee.png)
 </br>
 <pre>
@@ -91,6 +95,6 @@ while (notDone()) {
 }
 </pre>
 
-6 </br>
+## 6. Reflection </br>
 I'm interested in working on [OpenEnergyDashboard](https://github.com/OpenEnergyDashboard/OED) as I have previously worked on it in RCOS last semester. This would allow me to get to work on problems faster as I have already been through the onboarding process for this project. </br>
 Another project I am somewhat interested in is a Maplestory private server [v203.4](https://github.com/pokiuwu/v203.4) that I have forked recently. I still have not looked at the code so I am not sure how long the onboarding process will take. This project could be interesting for me to work on as I want to implement some custom features that some private servers had in the past.
