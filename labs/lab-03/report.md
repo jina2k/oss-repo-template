@@ -62,15 +62,46 @@ $\begin{bmatrix}
 ### BOT
 ![image](https://user-images.githubusercontent.com/66571652/151616640-d2cb59ad-def7-420f-be37-ca06edbe0820.png)
 
-### BEIRRUN
-![image](https://user-images.githubusercontent.com/66571652/151616407-eaab27ba-6f15-4642-a5d3-cc3da714631d.png)
+Total lines of code is pretty much the same (small difference), while the contributors is labeled double. Start and end commit are also the same.
 
 ### B7
 ![image](https://user-images.githubusercontent.com/66571652/151616437-001ac475-10a0-4474-beff-55ccf8facc20.png)
 
+Total lines of code is pretty much the same (difference of 3 lines), while there are an extra 5 contributors. End commit date is off by a day.
+
 ### BASA-OS
 ![image](https://user-images.githubusercontent.com/66571652/151616481-0f02bd6e-d7ed-4dbb-bff8-2848952a523c.png)
+
+Lines of code is the same, 2 additional contributors. Start and end date for commits are the same.
+
+### BeirRun
+![image](https://user-images.githubusercontent.com/66571652/151616407-eaab27ba-6f15-4642-a5d3-cc3da714631d.png)
+
+Total lines of code is very different, 3706 in image vs 22163. Contributors are the same, and start and end date for commits are the same.
 
 ### Better-eBinder
 ![image](https://user-images.githubusercontent.com/66571652/151616503-8f9ef18a-e50f-4cfc-ba01-0ae0b77b3205.png)
 
+Lines of code is the same, while there is an additional contributor. First commit is off by a month, while end date is the same.
+
+## 6
+
+### B.O.T
+
+![BOT](https://youtu.be/7yOwpPv27is)
+
+### B7
+
+![b7](https://youtu.be/KyLP_PYUkI4)
+
+### BASA-OS
+
+![BASAOS](https://youtu.be/Duv6WZshL1I)
+
+### BeirRun
+
+![BEIRRUN](https://youtu.be/hW4t6pscJwA)
+
+### Better eBinder
+
+![BETTEREBINDER](https://youtu.be/LpY3XP5FCTc)
