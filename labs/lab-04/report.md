@@ -1,5 +1,5 @@
 ### 1
-This lab report is licensed under the Creative Commons License, details are in the LICENSE.md file listed in the same directory as this report.
+This lab report is licensed under the Creative Commons License, details are in the LICENSE.md file listed in the same directory as this report, as well as https://creativecommons.org/licenses/by/4.0/. <img src="https://user-images.githubusercontent.com/66571652/152588734-0a3ac751-218c-4ad2-b8b7-668e1f21696b.png" width="100">
 
 ### 2
 Free software follows 4 freedoms, which essentially lets you do anything with the software (run it, study it, modify it, redistribute it).
