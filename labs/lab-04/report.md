@@ -2,7 +2,7 @@
 This lab report is licensed under the Creative Commons License, details are in the LICENSE.md file listed in the same directory as this report.
 
 ### 2
-
+Free software follows 4 freedoms, which essentially lets you do anything with the software (run it, study it, modify it, redistribute it).
 
 ### 3
 It's important to choose a license because you can specify what users can do with the software that you are licensing. Some licenses allow you to
@@ -21,7 +21,7 @@ was a leading factor to the downfall of Gopher, the underutilization of the open
 http.
 
 ### 6
-
+The Android and Linux kernel both use the GNU GPL v2 license, and the Android kernel uses GNU GPL v2 because it is based on the Linux kernel, and so the license must be the same.https://en.wikipedia.org/wiki/Android_(operating_system) As for the Linux kernel, Torvalds wanted commercial redistribution, he wanted the code to be shared when redistributed after modification, and GNU GPL v2 satisfied those requirements. https://en.wikipedia.org/wiki/Linux It also follows the four freedoms https://www.redhat.com/en/blog/celebrating-30-years-linux-kernel-and-gplv2. Linus also mentions why he doesn't transition to GPL v3 here https://www.youtube.com/watch?v=PaKIZ7gJlRU&ab_channel=TFiR, but to begin with, there are parts of the code that are owned by others that would need approval to transition to GPL v3 other than Torvalds himself.
 
 ### 7
 https://github.com/aidan-lane/oss-lab04
