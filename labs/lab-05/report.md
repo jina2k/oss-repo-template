@@ -11,9 +11,13 @@ Step 4 (image):
 Output is shown [here](https://github.com/jina2k/oss-repo-template/blob/master/labs/lab-05/step4/output.txt) instead
 
 Step 5 (image):
-![image](https://user-images.githubusercontent.com/66571652/153650267-40e91c5b-7c63-4f64-baf2-6d9f61a0f0f6.png)
+![image](https://user-images.githubusercontent.com/66571652/153650267-40e91c5b-7c63-4f64-baf2-6d9f61a0f0f6.png) </br>
 
 ## Make/CMake:
+Links: </br>
+[Makefile made by me](https://github.com/jina2k/oss-repo-template/blob/master/labs/lab-05/program/Makefile) </br>
+[Makefile made by CMake](https://github.com/jina2k/oss-repo-template/blob/master/labs/lab-05/program/Makefile2) </br>
+[CMakeLists](https://github.com/jina2k/oss-repo-template/blob/master/labs/lab-05/program/CMakeLists.txt)
 
 make output:</br>
 ![image](https://user-images.githubusercontent.com/66571652/153783464-440e14f7-a99a-489a-b0e9-fa6547080827.png)
