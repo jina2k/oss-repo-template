@@ -4,3 +4,7 @@
 ## Modified Example
 File is located [here](https://github.com/jina2k/oss-repo-template/blob/master/labs/lab-06/otherexample.py) </br>
 ![image](https://user-images.githubusercontent.com/66571652/156811389-a142234a-93a3-49dc-9657-c731de7b90d8.png)
+
+## Modified Example 2
+File is located [here](https://github.com/jina2k/oss-repo-template/blob/master/labs/lab-06/otherexample2.py) </br>
+![image](https://user-images.githubusercontent.com/66571652/156814405-05e09e8e-9f7f-44d9-830d-3e87f3a28a91.png)
