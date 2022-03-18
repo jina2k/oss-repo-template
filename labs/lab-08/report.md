@@ -21,4 +21,8 @@ Edited copyright year to have 2022 and remade in a new directory: </br>
 
 ## Step 4:
 
-![image](https://user-images.githubusercontent.com/66571652/159069096-9bb7f852-052e-478a-8d0f-8ab0ae59507e.png)
+![image](https://user-images.githubusercontent.com/66571652/159069096-9bb7f852-052e-478a-8d0f-8ab0ae59507e.png) </br>
+Repository with Test 5 example: https://github.com/jina2k/lab8test5example </br>
+![image](https://user-images.githubusercontent.com/66571652/159078280-04dc4b33-1ab2-4102-9280-6301f3d5c875.png) </br>
+![image](https://user-images.githubusercontent.com/66571652/159078351-1eca720c-a98c-4a7c-9721-2524a3cb694d.png)
+
