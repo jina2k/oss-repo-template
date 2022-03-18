@@ -14,4 +14,9 @@ the failure, as it shows the user has to update their copyright.
 ![image](https://user-images.githubusercontent.com/66571652/159055685-03874b24-5f77-4a20-9de4-bad41789dade.png)
 
 ## Step 3:
+Testing provides details on the error using the flag --output-on-failure, where it states that the copyright year is incorrect (year is 2022 not 2020). </br>
+![image](https://user-images.githubusercontent.com/66571652/159060177-ef968d1d-3769-4acc-abee-a7eb294e8879.png)</br>
+Edited copyright year to have 2022 and remade in a new directory: </br>
+![image](https://user-images.githubusercontent.com/66571652/159064508-afab5079-abd6-4afb-a9cd-930ce06afe0d.png)
 
+## Step 4:
