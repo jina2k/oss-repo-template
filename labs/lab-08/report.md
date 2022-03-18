@@ -20,3 +20,5 @@ Edited copyright year to have 2022 and remade in a new directory: </br>
 ![image](https://user-images.githubusercontent.com/66571652/159064508-afab5079-abd6-4afb-a9cd-930ce06afe0d.png)
 
 ## Step 4:
+
+![image](https://user-images.githubusercontent.com/66571652/159069096-9bb7f852-052e-478a-8d0f-8ab0ae59507e.png)
