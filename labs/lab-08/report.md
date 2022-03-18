@@ -10,4 +10,8 @@ the failure, as it shows the user has to update their copyright.
 - https://open.cdash.org/build/7801794, The dashboard is very clean, 0 issues to be concerned with.
 - https://open.cdash.org/viewTest.php?onlypassed&buildid=7802700. No errors.
 
+![image](https://user-images.githubusercontent.com/66571652/159055596-cc7f3b20-28ef-4ed0-aeb3-7214900033e1.png)</br>
+![image](https://user-images.githubusercontent.com/66571652/159055685-03874b24-5f77-4a20-9de4-bad41789dade.png)
+
+## Step 3:
 
