@@ -27,6 +27,6 @@ docker rmi <images-id>
 
 ## Example 03
 ![image](https://user-images.githubusercontent.com/66571652/160170623-1465f2f7-ec3b-4d33-aa4e-3e5b00efe227.png)
-Edited Dockerfile to use python3 instead, ran a Flask app that uses the provided hello.py, hosting it on localhost:5000.
+Edited [Dockerfile](https://github.com/jina2k/oss-repo-template/blob/master/labs/lab-09/Dockerfile) to use python3 instead, ran a Flask app that uses the provided hello.py, hosting it on localhost:5000.
 
 ## Example 04
