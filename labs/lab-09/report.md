@@ -26,7 +26,16 @@ docker rmi <images-id>
 ```
 
 ## Example 03
-![image](https://user-images.githubusercontent.com/66571652/160170623-1465f2f7-ec3b-4d33-aa4e-3e5b00efe227.png)
+![image](https://user-images.githubusercontent.com/66571652/160170623-1465f2f7-ec3b-4d33-aa4e-3e5b00efe227.png) </br>
 Edited [Dockerfile](https://github.com/jina2k/oss-repo-template/blob/master/labs/lab-09/Dockerfile) to use python3 instead, ran a Flask app that uses the provided hello.py, hosting it on localhost:5000.
 
 ## Example 04
+![image](https://user-images.githubusercontent.com/66571652/160173427-0456cf5c-889a-40ee-95e9-7b2eba206767.png) </br>
+Expected error after running with Dockerfile, as indicated by https://github.com/rcos/docker-examples/tree/Spring2019/example04
+
+![image](https://user-images.githubusercontent.com/66571652/160174686-3658c76c-e53b-45b4-b0ce-4374d27e1545.png) </br>
+Added messages
+
+![image](https://user-images.githubusercontent.com/66571652/160175106-84d0dae3-03a1-4f70-bcc2-71dcc5b1f2e0.png) </br>
+Output after modifying hello to hey and deleting hola message.
+
