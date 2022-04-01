@@ -35,7 +35,14 @@ Edited \_rev field to what the \_rev field is for the album. </br>
 ### 1.7.4
 ![image](https://user-images.githubusercontent.com/66571652/161322583-c5a002ed-103f-4530-992d-c4028ca76b20.png) </br>
 
-
-
-
+## Checkpoint 4:
+### 4.1
+![image](https://user-images.githubusercontent.com/66571652/161324063-b9a6043d-62ba-4acd-adf1-2976bac87448.png)
+### 4.2
+![image](https://user-images.githubusercontent.com/66571652/161324281-55885b77-0211-460f-9569-051ae762bce3.png)
+### 4.3
+![image](https://user-images.githubusercontent.com/66571652/161325427-150efdff-f1fa-434e-aad9-53912840d077.png)
+### 4.4
+![image](https://user-images.githubusercontent.com/66571652/161325483-2ff25b45-a7fc-415d-a582-e625ae53a2c0.png) </br>
+Adapted commands to make index for title, and then reran query.
 
