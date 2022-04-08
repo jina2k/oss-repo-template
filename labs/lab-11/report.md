@@ -17,4 +17,5 @@ Edited to print out information for images 9000-9014: </br>
 ![image](https://user-images.githubusercontent.com/66571652/162487949-0a51a500-9191-4ff6-a466-03545eea37c9.png)
 
 ### Checkpoint 3
+![image](https://user-images.githubusercontent.com/66571652/162501135-1d6c354c-93f4-4b7f-b903-12ea2fcf4bcf.png)
 
